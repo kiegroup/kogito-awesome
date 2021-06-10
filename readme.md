@@ -7,12 +7,12 @@
 
 ## Contents
 
-- [General Kogito links](#General Kogito links)
-- [GitHub Kogito repositories](#GitHub Kogito repositories)
+- [General Kogito links](#General-Kogito-links)
+- [GitHub Kogito repositories](#GitHub-Kogito-repositories)
 - [Editors](#Editors)
 - [Blogs](#Blogs)
 - [Videos](#Videos)  
-- [Cloud Artifacts](#Cloud Artifacts)
+- [Cloud Artifacts](#Cloud-Artifacts)
 - [Workshops](#Workshops)
 - [Contribute](#Contribute)
 
@@ -81,4 +81,4 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Feel free to open a PR with new awesome content!
