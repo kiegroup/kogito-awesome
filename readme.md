@@ -78,6 +78,10 @@
 
 - [DevConf CZ 2020](https://github.com/cristianonicolai/devconfcz-2020)
 
+## Demos
+
+- [Kogito Loan Demo](https://github.com/mouachan/kogito-knative-loan-demo)
+
 
 ## Contribute
 
